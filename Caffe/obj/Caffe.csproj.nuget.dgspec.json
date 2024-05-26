@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\C#\\Caffe\\Caffe\\Caffe.csproj": {}
+    "C:\\Users\\conts\\OneDrive\\Máy tính\\CafeStoreManager\\Caffe\\Caffe.csproj": {}
   },
   "projects": {
-    "D:\\Study\\C#\\Caffe\\Caffe\\Caffe.csproj": {
+    "C:\\Users\\conts\\OneDrive\\Máy tính\\CafeStoreManager\\Caffe\\Caffe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\C#\\Caffe\\Caffe\\Caffe.csproj",
+        "projectUniqueName": "C:\\Users\\conts\\OneDrive\\Máy tính\\CafeStoreManager\\Caffe\\Caffe.csproj",
         "projectName": "Caffe",
-        "projectPath": "D:\\Study\\C#\\Caffe\\Caffe\\Caffe.csproj",
+        "projectPath": "C:\\Users\\conts\\OneDrive\\Máy tính\\CafeStoreManager\\Caffe\\Caffe.csproj",
         "packagesPath": "C:\\Users\\conts\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\C#\\Caffe\\Caffe\\obj\\",
+        "outputPath": "C:\\Users\\conts\\OneDrive\\Máy tính\\CafeStoreManager\\Caffe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\conts\\AppData\\Roaming\\NuGet\\NuGet.Config",
